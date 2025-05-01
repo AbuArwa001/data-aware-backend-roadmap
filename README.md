@@ -1,4 +1,3 @@
-*"My 12-month journey to master distributed systems, data pipelines, and collaborative backend engineering."*
 # 🚀 Data-Aware Backend Engineer Roadmap  
 *"From Django APIs to real-time livestock data pipelines."*  
 
@@ -33,4 +32,4 @@ Master distributed systems, scalable APIs (Python/Django), and data pipelines (K
 | Data          | Kafka, PySpark                 |  
 | DevOps        | Docker, AWS EC2                |  
 
-*(Add your LinkedIn/Jamia Mosque contact if open to collabs!)*  
+*[(Khalfan Athman)](https://www.linkedin.com/in/khalfankaigwa)*  
